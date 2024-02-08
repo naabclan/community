@@ -1,2 +1,2 @@
-# community
-NaaB Community
+# Community
+Welcome to the NaaB community repository.
